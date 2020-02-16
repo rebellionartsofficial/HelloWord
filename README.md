@@ -1,2 +1,0 @@
-# HelloWord
-FirstProgramToday_NotScarcely
